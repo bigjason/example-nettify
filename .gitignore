@@ -1,0 +1,7 @@
+.cache
+.classpath
+.project
+plugins/project/target/
+plugins/target/
+project/target/
+target/
